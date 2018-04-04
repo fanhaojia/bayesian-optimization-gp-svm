@@ -1,5 +1,8 @@
 # Bayesian optimization with Gaussian processes
-
+This repository is copied from Dr. Thomas Huijskens.
+Firstly, you should install sklearn and imageio moudles.
+Then it should work.
+#####################################################################################################################################
 This repository contains Python code for Bayesian optimization using Gaussian processes. It contains two directories:
 
 * `python`: Contains two python scripts `gp.py` and `plotters.py`, that contain the optimization code, and utility functions to plot iterations of the algorithm, respectively.
